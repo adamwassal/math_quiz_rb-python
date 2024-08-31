@@ -1,3 +1,3 @@
 <h1>Math Quiz</h1>
 
-# Ruby and Python code
+# Ruby and Python code in Terminal
